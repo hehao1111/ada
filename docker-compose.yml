@@ -1,6 +1,6 @@
  version: '3'
  services:
    server:
-     image: [your docker hub account]/docker-ci-basic:latest
+     image: 1605428506/docker-ci-basic:latest
      ports:
        - 8080:80
